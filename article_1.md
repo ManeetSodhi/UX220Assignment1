@@ -1,8 +1,10 @@
 <h3>Financial</h3>
 
 <ul>
-<li>more placeholder text</li>
-<li>test test</li>
+<li>Be able to pay off my student loans early</li>
+<li>Make enough money to live comfortably</li>
+<li>Be able to support my mother financially</li>
+<li>Afford a home</li>
 </ul>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Artist_drawing_%28Unsplash%29.jpg" height="200px">
+<img src="https://images.pexels.com/photos/6694965/pexels-photo-6694965.jpeg" height="200px">
